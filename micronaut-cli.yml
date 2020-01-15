@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: org.unis.dll
+---
+testFramework: junit
+sourceLanguage: java
